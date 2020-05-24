@@ -1,5 +1,5 @@
 # Chrome_T_Rex_Game_v01
-Chrome에서 제공하는 T-Rex 게임 모바일 버전으로 만든 파일럿 프로젝트
+Chrome에서 제공하는 T-Rex 게임: 모바일 버전으로 만든 파일럿 프로젝트
 
 [![T-Rex_Mobile_Game_v01 alpha](https://j.gifs.com/jZWM7P.gif)](https://www.youtube.com/watch?v=O6KTUpHfERg)
 
