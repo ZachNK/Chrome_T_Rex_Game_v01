@@ -3,7 +3,7 @@ Chrome에서 제공하는 T-Rex 게임 모바일 버전으로 만든 파일럿 �
 
 [![T-Rex_Mobile_Game_v01 alpha](https://j.gifs.com/jZWM7P.gif)](https://www.youtube.com/watch?v=O6KTUpHfERg)
 
-video source: https://www.youtube.com/watch?v=O6KTUpHfERg
+(↑ click gif image to watch full video)
 
 개선할 점:
 1. 모바일 규격에 적절한 화면 비율 및 고정 기능 필요.
